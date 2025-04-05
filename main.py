@@ -28,8 +28,6 @@ modelo.fit(X_train, y_train)
 # Previsão e cálculo do erro médio absoluto
 y_pred = modelo.predict(X_test)
 erro_medio = mean_
-,
-3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0kjmkoijmmmmmmmmmmmmmm  
 
 # Função para previsão
 def prever(indice_socio, horas_estudo, horas_sono, frequencia):
